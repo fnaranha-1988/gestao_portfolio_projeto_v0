@@ -12,11 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-#Indicando com é o padrão de numeros - Brasil
-try:
-    locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
-except locale.Error:
-    pass
+
 
 #Funções
 def moeda_br(valor):
