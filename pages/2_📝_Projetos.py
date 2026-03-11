@@ -71,7 +71,7 @@ with st.expander("Dados do Projeto"):
     if pd.isna(gestor):
         gestor = "NÃO INFORMADO"
     col14.markdown(f"**Gestor Responsável:** {gestor.upper()}")
-    duracao = projeto_escolhido["Duracao"]
+    duracao = int(projeto_escolhido["Duracao"])
     if pd.isna(duracao):
         duracao = "NÃO INFORMADO"
     col15.markdown(f"**Prazo Contrato:** {duracao}")
