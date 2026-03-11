@@ -1,0 +1,82 @@
+﻿ProjectID;Status_Contrato;Gestor_Contratante;Gestor_Contratada;N_Contrato;Empresa;Regional;Sistema;Plan_Med_Mes;Nome_Projeto;Escopo;Prioridade;Motivo_Prioridade;Ano_Obra;Progresso_Projeto;Status_Projeto;Duracao;Inicio_Previsto;Termino_Previsto;Inicio_Real;Termino_Real;Valor_Previsto;Aditivo;Justificativa_Aditivo;Medido;Saldo_Contrato;Disp_Ano;ETE;EEE;INT_CT;RCE;LRE;ETA;AAB;AAT;RDA;EAB;EAT;BOOSTER;RAB;RAT;CAP_SUP;CAP_SUB;CTS_GAP;CTS_CH;Data_Atualizacao;Atualizado_Por
+1;Contratado;Aline;;CT 015/2023 ;SANEARES;Prolagos;;;ETE ARRAIAL;Elaboração de Projeto Executivo da Estação de Tratamento de Esgoto Arraial do Cabo-RJ.;;;;0,44;Atrasado;;;;01/01/2026;26/04/2026;1060000;;;480000;;;;;;;;;;;;;;;;;;;;;;
+2;Contratado;Aline;;CT 064/2023 ;SONDOTÉCNICA;Norte;;;ETE PENHA;Projeto Executivo da Estação de Tratamento de Esgoto da Penha;;;;0,7;Em Risco;;;;31/12/2025;31/12/2025;1970000;;;1310000;;;;;;;;;;;;;;;;;;;;;;
+3;Contratado;Aline;;CT 096/2025 ;SANEARES;Baixada 1;;;UT’S MAGÉ E RJ;Estudo de concepção de sistema de coleta em tempo seco para os municípios de Saquarema, Tanguá e Magé;;;;0,9;Em Linha;;;;31/12/2025;30/12/2025;730000;;;580000;;;;;;;;;;;;;;;;;;;;;;
+4;Contratado;Aline;;CT 098/2024 ;EAGUA;Norte;;;SES PAVUNA;Elaboração do projeto executivo complementar ao sistema de esgotamento sanitário da Bacia da ETE PAVUNA, no Município do Rio de Janeiro.;;;;0,67;Em Linha;;;;21/05/2026;21/05/2026;5860000;;;3570000;;;;;;;;;;;;;;;;;;;;;;
+5;Equalização;Aline;;;SANEARES;Geral;;;TAC 2026 (8 UND);Projeto Executivo para atendimento do TAC Inea;;;;;Em Risco;;;;;;1500000;;;;;;;;;;;;;;;;;;;;;;;;;
+6;TR em Elaboração;Aline;;;;Leste;;;ETE APOLLO;Projeto Executivo;;;;;Em Linha;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+7;TR em Elaboração;Aline;;;;Leste;;;ETE JARDIM CATARINA;Projeto Executivo;;;;;Em Linha;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+8;Contratado;Felipe;;CT 080/2025 ;PROSERENCO;Interior;;;ADUTORA RIO BONITO - TANGUÁ (DENTRO CONTRATO SARAPUÍ);Aditivo Elaboração de projeto executivo para interligação de AAT entre os municipios de Rio Bonito e Tanguá;;;;;Em Linha;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+9;Contratado;Felipe;;CT 133/2025;PROSERENCO;Interior;;;ETA BARRA SECA;Aditivo para revisão de Projeto Executivo para implantação de filtros Zeólitcas;;;;;Em Linha;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+10;Contratado;Felipe;Hebert;CT 122/2024 ;SANEARES;Leste;;Sim;ETA MARICÁ;Projeto Executivo do Sistema de Tratamento de Lodo e Adequação Operacional das ETA Porto das Caixas e Maricá;;;;0,7;Em Linha;;;;28/02/2026;28/02/2026;230000;;;156209,4;;;;;;;;;;;;;;;;;;;;;;
+11;Contratado;Felipe;Hebert;CT 122/2024 ;SANEARES;Leste;;Sim;ETA PORTO DAS CAIXAS (SANEARES) & ETA MARICÁ;Projeto Executivo do Sistema de Tratamento de Lodo e Adequação Operacional das ETA Porto das Caixas e Maricá;;;;0,7;Em Linha;;;;28/02/2026;28/02/2026;260000;;;190922,6;;;;;;;;;;;;;;;;;;;;;;
+12;Contratado;Felipe;;CT 080/2025 ;PROSERENCO;Baixada 1;;Sim;ETE SARAPUÍ;"Execução de serviços técnicos especializados de engenharia para elaboração do Projeto Executivo de implantação do Sistema de Esgotamento Sanitário e do Sistema de Abastecimento de Água de Sampaio Correia (Saquarema), necessário para atender ao programa de cobertura dos SES/SAA do município.Quantitativo: SAA: 119km Rede de Abastecimento; 13km Adutora 14 Elevatórias de Esgoto; 23km Linha de Recalque; 300m Emissário; 1 ETE; 1 ETA. SES: 195km Rede Coletora; 9 Boosters; 1 ETA.";;;;;Em Linha;;;;10/09/2026;10/09/2026;1623000;;;;;;;;;;;;;;;;;;;;;;;;;
+13;Contratado;Felipe;Cristiane;CT 002/2024 ;HIDROBR;Leste;;Sim;SAA  E SES SAQUAREMA;Elaboração de projeto executivo da Implantação do Sistema de Esgotamento Sanitário e do Sistema de Abastecimento de Água  de Sampaio Correia, REGIONAL LESTE. ;;;;0,7;Em Risco;;;;16/08/2024;27/03/2026;2762000;404000;;2305843;;;;;;;;;;;;;;;;;;;;;;
+14;Contratado;Felipe;Fabiele;CT 102/2024 ;SANEARES;Interior;;Sim;SES APERIBÉ;Elaboração de projeto executivo de Implantação do Sistema de Esgotamento Sanitário ETE Aperibé 1 no Município de  Aperibé (RJ), REGIONAL INTERIOR. ;;;;0,68;Atrasado;;;;19/04/2025;19/04/2026;682000;327000;;460950;;;;;;;;;;;;;;;;;;;;;;
+15;Contratado;Felipe;;CT 043/2025;TPS;Prolagos;;Sim;CINTURÕES;Projeto executivo de sistema de esgotamento para complementação dos cinturões da lagoa de Araruama.;;;;0,67;Em Linha;;;;31/12/2025;31/12/2025;740000;600000;;900000;;;;;;;;;;;;;;;;;;;;;;
+16;Contratado;Felipe;;CT 046/2025 ;ESSE;Interior;;Sim;SES MIRACEMA (CRITICA);Projeto executivo de sistema de esgotamento (transporte e tratamento) para atendimento do distrito Sede de Miracema. ;;;jun/26;0,7;Atrasado;;;;25/05/2026;06/08/2026;790000;;;14000;;;;;;;;;;;;;;;;;;;;;;
+17;Contratado;Felipe;;CT 087/2025;TPS;Prolagos;;Sim;FAZENDA LAGOA (TPS);Projeto executivo de sistema de esgotamento para atendimento de condomínio no município de Búzios.;;;;0,55;Atrasado;;;;21/11/2025;20/02/2026;110000;;;60000;;;;;;;;;;;;;;;;;;;;;;
+18;Contratado;Felipe;Marilda;CT 096/2025 ;NGA;Geral;;Sim;CTS SA, TA E ME;Estudo de concepção de sistema de coleta em tempo seco para os municípios de Saquarema, Tanguá e Magé;;;;0,2;Em Linha;;;;19/02/2026;19/02/2026;570000;;;7000;;;;;;;;;;;;;;;;;;;;;;
+19;Contratado;Felipe;Mario Costa;CT 103/2025;HIDROCON;Geral;;Não;CTS NOVOS PONTOS;Projeto executivo de novos sistema de coleta em tempo seco para os municípios contratuais. Nilopolis, Mesquista e Nova Iguaçu;;;;0,5;Em Linha;;;;23/07/2026;23/07/2026;2520000;;;270000;;;;;;;;;;;;;;;;;;;;;;
+20;Contratado;Felipe;;CT 115/2025;TPS;Interior;;Sim;SES DUAS BARRAS;Projeto executivo de sistema de esgotamento (transporte e tratamento) para atendimento do distrito Sede e Monnerat de Duas Barras. ;;;;;Em Linha;;;;30/04/2026;30/04/2026;620000;;;;;;;;;;;;;;;;;;;;;;;;;
+21;Tomada de Preço;Felipe;;;;Prolagos;;N/A;SES BUZIOS - BAIRRO CAPÃO;Projeto executivo para expansão do SES no bairro de capão, buzios. A definir se será em RS, CTS ou misto.;;;;;Em Linha;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+22;TR em Elaboração;Felipe;;;;Prolagos;;N/A;SES CABO FRIO - TAMOIOS;Projeto executivo para expansão do SES para Tamoios, Cabo Frio. A definir se será em RS, CTS ou misto.;;;;;Em Linha;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+23;Tomada de Preço;Felipe;;;TPS;Prolagos;;N/A;CTS SACO DA LULA;"Projeto Executivo para CTS
+Aguardando decisão da estratégia da Prolagos";;;;;Em Linha;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+24;TR em Elaboração;Felipe;;;;Baixada 2;;N/A;ETE GUANDÚ;Captação: 600 l/s Elevatória de Água Bruta: >500CV / 600 l/s Adutora de Água Bruta: 500 m Estação de Tratamento de Água: 600 l/s Elevatória de Água Tratada: >500CV / 600 l/s Adutora de Água Tratada: 40.000m Reservatório: 10.000 m³;;;jun/30;;Em Linha;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+25;Contratado;Felipe;;CT 006/2026;SANEARES;Leste;;N/A;SAA CACERIBU;"Projeto Executivo de sistema de abastecimento de água de Caceribu.
+Captação: 600 l/s 
+Elevatória de Água Bruta: >500CV / 600 l/s 
+Adutora de Água Bruta: 500 m 
+Estação de Tratamento de Água: 600 l/s 
+Elevatória de Água Tratada: >500CV / 600 l/s 
+Adutora de Água Tratada: 40.000m 
+Reservatório: 10.000 m³ ";;;;;Em Linha;210;02/02/2026;10/02/2026;31/08/2026;31/08/2026;2900000;;;;;;;;;;;;;;;;;;;;;;;;;
+26;Contratado;Felipe;;;PROSERENCO;Centro-Sul/Comunidades;;N/A;REMANEJAMENTO JARDIM DE ALAH;;;;;0,1;Em Linha;30;04/02/2026;04/02/2026;04/03/2026;04/03/2026;;;;;;;;;;;;;;;;;;;;;;;;;;
+27;Assinatura;Luan;;;ACQUALIS;Prolagos;;;ESTUDO HIDRODINÂMICO;Comporta rio salgado;;;;;Não Iniciado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+28;Contratado;Roberth;;CT 035/2025 ;CISM;Prolagos;;;ETE JARDIM ESPERANÇA;Projeto de Ampliação da unidade para 440 l/s;;;Em andamento;0,1;ATO;;;;28/08/2025;28/08/2025;92000;61000;;102800;;;;;;;;;;;;;;;;;;;;;;
+29;Contratado;Roberth;;CT 035/2025 ;CISM;Prolagos;;;ETE SIQUEIRA;Projeto de Ampliação da unidade para 416 l/s;;;Em andamento;0,1;ATO;;;;28/08/2025;28/08/2025;89500;61000;;100300;;;;;;;;;;;;;;;;;;;;;;
+30;Contratado;Roberth;;CT 037/2025 ;SANETECH;Geral;;;ASES;Melhorias em 17 pontos da Zona Sul do Rio de Janeiro;;;;0,32;Em Linha;;;;22/10/2025;30/04/2026;496870;;;158632,33;;;;;;;;;;;;;;;;;;;;;;
+31;Contratado;Roberth;;CT 051/2025 ;SANEARES;Baixada 1;;;ETE FARIAS;Projeto Executivo da ETE Farias – 700 l/s;;;;0,1;Em Linha;;;;03/10/2025;13/06/2026;1185000;;;20437,5;;;;;;;;;;;;;;;;;;;;;;
+32;Contratado;Roberth;;CT 063/2023 ;ENGECORPS;Norte;;;ETE PAVUNA;Projeto de Ampliação da unidade para 1.700 l/s;;;;0,36;Atrasado;;;;19/06/2024;30/12/2025;2011462,5;;;724531,84;;;;;;;;;;;;;;;;;;;;;;
+33;Contratado;Roberth;;CT 096/2023 ;SONDOTÉCNICA;Baixada 1;;;SES FARIAS;Projeto Executivo do SES Farias, Duque de Caxias (743 km de rede / 51 EEE);;;;0,85;Em Risco;;;;11/07/2024;31/12/2025;7562555,41;1528198,89;;7228228,17;;;;;;;;;;;;;;;;;;;;;;
+34;Contratado;Roberth;;CT 108/2023 ;CISM;Baixada 1;;;ETE ORQUIDEA;Projeto de Ampliação da unidade para 1.100 l/s;;;;0,23;Cancelado;;;;17/07/2024;31/12/2026;1123462,5;;;264628,33;;;;;;;;;;;;;;;;;;;;;;
+35;Contratado;Roberth;;CT 097/2024 ;SANEARES;Centro-Sul/Comunidades;;;SES SANTO CRISTO;Problema de extravasamento na rua Nabuco de Freitas, bairro Santo Cristo;;;;0,13;Em Risco;;;;19/01/2025;16/01/2026;147450;;;18571,58;;;;;;;;;;;;;;;;;;;;;;
+36;Contratado;Roberth;;CT 103/2025 ;HIDROCON;Geral;;;CTS ETAPA 2 CT 103/2025 ;Etapa 2 do Projeto de CTS: Belford Roxo, Duque de Caxias e São Gonçalo;;;;0,23;Em Linha;;;;23/07/2026;23/07/2026;5550000;;;1249157,77;;;;;;;;;;;;;;;;;;;;;;
+37;Contratado;Roberth;;CT 104/2024 ;CISM;Baixada 1;;;SES SARACURUNA;SES Saracuruna, Duque de Caxias (460 km de rede / 45 EEE);;;;0,85;Em Linha;;;;21/07/2025;06/02/2026;3888195;;;3352565,01;;;;;;;;;;;;;;;;;;;;;;
+38;Contratado;Roberth;;CT 147/2022 ;CONEN;Norte;;;ETIG;Projeto de Ampliação da unidade para 450 l/s;;;;0,85;Atrasado;;;;01/06/2023;27/02/2026;1800000;861168,06;;2275596,98;;;;;;;;;;;;;;;;;;;;;;
+39;Tomada de Preço;Roberth;;;;Baixada 1;;;ETE ORQUIDEA;Projeto de Ampliação da unidade para 1.100 l/s;;;;;Em Linha;45490;31/12/2026;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+40;Contratado;Salvador;;CT 108/2025 ;CISM;Leste;;;SES BANDEIRANTES E SAA TANGUÁ;Projeto executivo de sistema de esgotamento sanitário de Tanguá e ETE Bandeirantes. Projeto executivo de sistema de abastecimento de água em Tanguá e reforma de ETA Tanguá. ;;;;0,86;Atrasado;;;;16/01/2026;30/03/2026;2580000;;;2450000;;;;;;;;;;;;;;;;;;;;;;
+41;Contratado;Salvador;;CT 108/2025 ;CISM;Leste;;;ETE SÃO GONÇALO;Projeto executivo de sistema para reforma e ampliação de ETE São Gonçalo;;;;0,94;Atrasado;;;;30/11/2025;10/03/2026;610000;;;590000;;;;;;;;;;;;;;;;;;;;;;
+42;Demandas;;;;NÚCLEO;Interior;;;SES CAMBUCI;"Projeto executivo de Redes e Elevatórias de Esgoto para os Municípios de Cambuci: - 8,7 km de rede coletoras; - 6 EEE vazão < 3 L/s - 3 Travessias de Linha de Recalque";;;;;Não Iniciado;;;; ;;;;;;;;;;;;;;;;;;;;;;;;;;;
+43;Demandas;;;;NÚCLEO;Interior;;;SES CACHOEIRAS DE MACACU;Projeto executivo de Rede, Elevatórias de Esgoto e ETE, para o município de Cachoeiras de Macacu: LR =  42.001 mRC = 171.564 mLigações = 23.011 unidadesCT = 2354 mEEE = 347 L/sETE = 41 L/s;;;;;Não Iniciado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+44;Demandas;;;;NÚCLEO;Interior;;;SES CANTAGALO;Projeto executivo de Rede, Elevatórias de Esgoto e ETE, para o município de Cantagalo: LR = 5.345 mRC = 31.253 m Ligações = 9.506 unidades CT = 1789 m EEE = 47 L/s ETE = 29 L/s;;;;;Não Iniciado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+45;Demandas;;;;NÚCLEO;Interior;;;SES CASIMIRO;Projeto executivo de Rede, Elevatórias de Esgoto e ETE, para o município de Casimiro: RC = 6.458 mLigações = 731 unidadesETE = 48 L/s;;;;;Não Iniciado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+46;Demandas;;;;NÚCLEO;Interior;;;SES CORDEIRO;Projeto executivo de Rede, Elevatórias de Esgoto e ETE, para o município de Cordeiro LR =  14.383 mRC = 34.353 mLigações = 6.917 unidadesEEE = 76 L/sETE = 28 L/s;;;;;Não Iniciado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+47;Demandas;;;;NÚCLEO;Interior;;;SES ITAOCARA;Projeto executivo de Rede, Elevatórias de Esgoto e ETE, para o município de Itaocara: LR =  8.017 mRC = 78.430 mLigações = 8.896 unidadesEEE = 47 L/sETE = 23 L/sCT = 811 m;;;;;Não Iniciado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+48;Demandas;;;;NÚCLEO;Interior;;;SES RIO BONITO;Projeto executivo de Rede, Elevatórias de Esgoto e ETE, para o município de Rio Bonito: LR =  26.561 mRC =  132.489  mLigações =  17.442  unidadesEEE = 410 L/sETE = 75 L/sCT = 1.033 m;;;;;Não Iniciado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+49;Demandas;;;;NÚCLEO;Interior;;;SES SÃO FRANCISCO DE ITABAPOANA;Projeto executivo de Rede, Elevatórias de Esgoto e ETE, para o município de São Francisco de Itabapoana: LR =   55.680  mRC = 294.910 mLigações =  23.748 unidadesEEEs =  238  L/sETE = 53 L/sCT = 1.226 m;;;;;Não Iniciado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+50;Demandas;;;;;Norte;;;UTR IRAJÁ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+51;Demandas;;;;;Norte;;;UTR RAMOS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+52;Demandas;;;;;;;;[AINU] PRAIA DA ROSA E SAPUCAIA;Dimensionamento de Cinturão + E.E.E. + Rede ColetoraEstimativa: • Rede coletora - Cinturão: 673,00 m• Rede coletora - Distribuição: 2.300,00 m• Linha de Recalque: 83,00m• E.E.E: 1 unidade (implantação)Planta:   RT-61-RJ-EGR-214-EP-DG-K-018-00.pdf;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+53;Demandas;;;;;;;;[AINU] PARQUE ROYAL;Dimensionamento de Cinturão + E.E.E. + Rede ColetoraEstimativa:• Rede coletora - Cinturão: 590,00 m• Rede coletora - Distribuição: 1.0000,00 m• Linha de Recalque: 170,00m• E.E.E: 1 unidade Planta:   RT-61-RJ-EGR-214-EP-DG-K-014-00.pdf;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+54;Demandas;;;;;;;;[AINU] COMPLEXO DO GUAÍBA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+55;Demandas;;;;;;;;[AINU]  MANDELA - MANGUINHOS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+56;Demandas;;;;;;;;[AINU] GREFISA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+57;Demandas;;;;;;;;[AINU] COLÔNIA DE PESCADORES ALMIRANTE GOMES PEREIRA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+58;Demandas;;;;;;;;[AINU] FURQUIM MENDES E DIQUE;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+59;Demandas;;;;;;;;[AINU] ACARI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+60;Demandas;;;;;;;;[AINU] VILA EUGÊNIA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+61;Demandas;;;;;;;;[AINU] COMPLEXO DO CHAPADÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+62;Demandas;;;;;;;;[AINU] QUITANDA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+63;Demandas;;;;;;;;[AINU] COMPLEXO DO ALEMÃO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+64;Demandas;;;;;;;;[AINU] JACAREZINHO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+65;Demandas;;;;;;;;[AINU] BARREIRA DO VASCO;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+66;Demandas;;;;;;;;[AINU] VILA ARARÁ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+67;Demandas;;;;;;;;[AINU] MORRO DA MINEIRA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+68;Demandas;;;;;;;;[AINU] MORRO DE QUEROSENE;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+69;Demandas;;;;;;;;[AINU] ROCINHA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+70;Demandas;;;;;;;;[AINU] VIDIGAL;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+71;Demandas;;;;;;;;[AINU] BABILÔNIA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+72;Demandas;;;;;;;;[AINU] SANTA MART;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+73;Demandas;;;;;;;;[AINU] MATA MACHADO E TIJUAÇU;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
