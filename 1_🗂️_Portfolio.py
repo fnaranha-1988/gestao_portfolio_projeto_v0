@@ -5,7 +5,6 @@ from streamlit_extras.bottom_container import bottom
 
 import streamlit as st
 import pandas as pd
-import locale
 import plotly.express as px
 import numpy as np
 
@@ -15,14 +14,9 @@ st.set_page_config(
     layout="wide"
 )
 
-#Indicando com é o padrão de numeros - Brasil
-try:
-    locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
-except locale.Error:
-    locale.setlocale(locale.LC_ALL, '')
-
 #Funções
-
+def moeda_br(valor):
+    return f"R$ {valor:,.2f}".replace(",", "X").replace(".", ",").replace("X", ".")
 
 #Declaração de Variaveis para filtragem
 
@@ -184,12 +178,12 @@ valor_ano_total = df_exibicao["Valor no Ano"].sum()
 saldo_total_ano = valor_ano_total - saldo_total
 
 
-previsto_total = locale.currency(previsto_total, grouping=True)
-aditivo_total = locale.currency(aditivo_total, grouping=True)
-medido_total = locale.currency(medido_total, grouping=True)
-saldo_total = locale.currency(saldo_total, grouping=True)
-valor_ano_total = locale.currency(valor_ano_total, grouping=True)
-saldo_total_ano = locale.currency(saldo_total_ano, grouping=True)
+previsto_total = moeda_br(previsto_total)
+aditivo_total = moeda_br(aditivo_total)
+medido_total = moeda_br(medido_total)
+saldo_total = moeda_br(saldo_total)
+valor_ano_total = moeda_br(valor_ano_total)
+saldo_total_ano = moeda_br(saldo_total_ano)
 
 
 st.header('Números Gerais')
