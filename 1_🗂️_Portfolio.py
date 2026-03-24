@@ -271,5 +271,5 @@ fig_gestor_valor = px.bar(valor_gestor,
 col63.plotly_chart(fig_gestor_valor, use_container_width=True)
 
 
-with bottom():
-    st.write("Desenvolvido por Felipe Aranha")
+st.divider()
+st.caption("Desenvolvido por Felipe Aranha")
